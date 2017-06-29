@@ -1,0 +1,10 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\DLL.Methods.DataAccess.dll.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\DLL.Methods.DataAccess.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\DLL.Methods.DataAccess.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.pdb
