@@ -1,0 +1,6 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\LINQ\LINQSyntax\LINQSyntax\bin\Debug\LINQSyntax.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\LINQ\LINQSyntax\LINQSyntax\bin\Debug\LINQSyntax.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\LINQ\LINQSyntax\LINQSyntax\bin\Debug\LINQSyntax.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\LINQ\LINQSyntax\LINQSyntax\obj\Debug\LINQSyntax.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\LINQ\LINQSyntax\LINQSyntax\obj\Debug\LINQSyntax.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\LINQ\LINQSyntax\LINQSyntax\obj\Debug\LINQSyntax.pdb
