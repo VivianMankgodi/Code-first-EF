@@ -5,6 +5,15 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\Sch
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.xml
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.dll
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.InitialCreate.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.csproj.GenerateResource.Cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.createInitial.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.createInitial1.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.createInitial2.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.createInitial3.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.initals1.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.initals4.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\SchoolSystem\DLL.Methods.DataAccess\obj\Debug\DLL.Methods.DataAccess.Migrations.initals5.resources

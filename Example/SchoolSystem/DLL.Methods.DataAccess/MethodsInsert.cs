@@ -24,14 +24,14 @@ namespace DLL.Methods.DataAccess
 
                       };*/
 
-                // context.students.Add(stud);
+                //context.students.Add(stud);
                 //  context.SaveChanges();
                 //    Console.WriteLine("Student Saved");
 
 
-                string Name;
+              /*  string Name;
                 DateTime BirthDate;
-                Console.Write("Enter your name");
+                Console.Write("Enter your name: ");
                 Name = Console.ReadLine();
                 var st = new Student()
                 {
@@ -39,8 +39,8 @@ namespace DLL.Methods.DataAccess
                 };
                 context.students.Add(st);
                 context.SaveChanges();
-                Console.WriteLine(Name + "You where saved");
-                Console.ReadKey();
+                Console.WriteLine(Name + " You where saved");
+                Console.ReadKey();*/
             }
         }
     }

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DLL.Methods.DataAccess;
 using System.IO;
+using DLL.Methods.DataAccess.Methods;
 
 namespace SchoolInformation
 {
@@ -13,40 +14,34 @@ namespace SchoolInformation
         static void Main(string[] args)
         {
 
+            Insert method = new Insert();
+            Select selectMethod = new Select();
+            int id = 0;
+           // method.RemoveStudentCourse(5,1);
+            method.AddingNewStudentCourse(5, 1);
+           //  method.CourseInsert("C#");
+           //method.StudnetInsertWithCourse("Viv",00,00,1,1,1, Convert.ToDateTime("2003/12/12"),1);
+           // selectMethod.GetAllStudent();
+           //selectMethod.GetById(id);
+           // method.StudnetInsert("Studentname",Convert.ToDateTime("2007/02/11"), Convert.ToDecimal(10.0),10,1,1,1);
+            string studentName ="";
+                DateTime? dateOfBirth = DateTime.Now;
+            decimal height = 00.0m; 
+                float weight = 0;
+            int? gender=null;
+            int? standardID = null;
+            int? teacherID= null;
+           // method.StudnetInsert(studentName,   dateOfBirth,  height,  weight, gender,  standardID,   teacherID);
+
+            
+
             //adding a user to a DbContext( database)
-            /*  using (var context = new SchoolContext() )
-              {
-                  //here we add information from a Class(table) that we want 
+           
 
-                 var stud = new Student
-                  {
-                      StudentName = "Thabo",
-                      DateOfBirth = DateTime.Parse("1991-04-12")
-
-
-                  };
-
-                 // context.students.Add(stud);
-                //  context.SaveChanges();
-              //    Console.WriteLine("Student Saved");
-
-
-                  string Name;
-                  DateTime BirthDate;
-                  Console.Write("Enter your name");
-                  Name = Console.ReadLine();
-                  var st = new Student()
-                  {
-                      StudentName = Name
-                  };
-                  context.students.Add(st);
-                  context.SaveChanges();
-                  Console.WriteLine(Name + "You where saved");
-                  Console.ReadKey();
-              }*/
-
-            MethodsInsert method = new MethodsInsert();
-            method.InsertStudent();
+           // MethodsInsert method = new MethodsInsert();
+        //    method.InsertStudent();
         }
+
+
     }
 }
