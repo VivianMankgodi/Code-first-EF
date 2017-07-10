@@ -11,3 +11,16 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.initialCreate_2.resources
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.InitialCreate.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.initialCreate_2.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

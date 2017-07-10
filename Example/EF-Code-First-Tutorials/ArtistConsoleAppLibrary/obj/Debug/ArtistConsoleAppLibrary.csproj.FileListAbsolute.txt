@@ -7,3 +7,13 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.xml
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\ArtistConsoleAppLibrary.dll.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\ArtistConsoleAppLibrary.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\ArtistConsoleAppLibrary.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\obj\Debug\ArtistConsoleAppLibrary.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\obj\Debug\ArtistConsoleAppLibrary.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ArtistConsoleAppLibrary\obj\Debug\ArtistConsoleAppLibrary.pdb

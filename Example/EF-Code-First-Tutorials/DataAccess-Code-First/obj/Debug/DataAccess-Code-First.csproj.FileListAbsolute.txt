@@ -8,3 +8,13 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\DataAccess-Code-First\obj\Debug\DataAccess-Code-First.csprojResolveAssemblyReference.cache
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\DataAccess-Code-First\obj\Debug\DataAccess-Code-First.exe
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\DataAccess-Code-First\obj\Debug\DataAccess-Code-First.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\DataAccess-Code-First.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\DataAccess-Code-First.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\DataAccess-Code-First.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\obj\Debug\DataAccess-Code-First.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\obj\Debug\DataAccess-Code-First.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\DataAccess-Code-First\obj\Debug\DataAccess-Code-First.pdb
