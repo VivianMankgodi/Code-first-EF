@@ -1,0 +1,9 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EF-Code-First.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EF-Code-First.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EF-Code-First.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\obj\Debug\EF-Code-First.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\obj\Debug\EF-Code-First.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\EF-Code-First\bin\Debug\EntityFramework.SqlServer.xml

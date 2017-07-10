@@ -1,0 +1,6 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\SimpleHash\obj\Debug\SimpleHash.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\SimpleHash\bin\Debug\SimpleHash.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\SimpleHash\bin\Debug\SimpleHash.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\SimpleHash\bin\Debug\SimpleHash.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\SimpleHash\obj\Debug\SimpleHash.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\SimpleHash\obj\Debug\SimpleHash.pdb
