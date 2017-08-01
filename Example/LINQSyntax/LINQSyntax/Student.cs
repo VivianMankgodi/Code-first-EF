@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LINQSyntax
 {
-    class Student
+ public    class Student
     {
 
         public int StudentID  { get; set; }

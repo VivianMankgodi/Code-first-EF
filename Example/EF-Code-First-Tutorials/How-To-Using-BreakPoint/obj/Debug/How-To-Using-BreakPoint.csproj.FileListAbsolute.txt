@@ -1,0 +1,5 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\How-To-Using-BreakPoint\bin\Debug\How-To-Using-BreakPoint.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\How-To-Using-BreakPoint\bin\Debug\How-To-Using-BreakPoint.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\How-To-Using-BreakPoint\bin\Debug\How-To-Using-BreakPoint.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\How-To-Using-BreakPoint\obj\Debug\How-To-Using-BreakPoint.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\How-To-Using-BreakPoint\obj\Debug\How-To-Using-BreakPoint.pdb

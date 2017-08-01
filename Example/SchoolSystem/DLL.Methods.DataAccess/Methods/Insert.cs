@@ -17,6 +17,7 @@ namespace DLL.Methods.DataAccess.Methods
             dbContext.Courses.Add(course);
             // saving the course
             dbContext.SaveChanges();
+            Console.WriteLine(" Course Saved  ");
           //  return course.CourseId;
 
         }
@@ -41,6 +42,7 @@ namespace DLL.Methods.DataAccess.Methods
             //here we save the student into StudentTable
             dbContext.students.Add(stud );
             dbContext.SaveChanges();
+            Console.WriteLine("  Student Saved");
 
         }
 

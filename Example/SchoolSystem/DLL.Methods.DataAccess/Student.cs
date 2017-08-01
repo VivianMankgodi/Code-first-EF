@@ -25,7 +25,8 @@ namespace DLL.Methods.DataAccess
             Weight = weight;
         GenderID   = gender;
             StandardID = standardID;
-            TeacherID = teacherID;        
+            TeacherID = teacherID;   
+                 
         }
 
         /*
@@ -49,18 +50,19 @@ e.g of data annotation
         public byte[] Photo { get; set; }
         public decimal Height { get; set; }
       public float Weight { get; set; }
+        [StringLength(10)]
+        public string PhoneNumber { get; set; }
       public Nullable<int> GenderID { get; set; }
 
         /* Declaring Navigation Properties*/
         //here show that Standard will be a foreign key in here
-        public Gender Gender { get; set; }
+        public Gender Gender { get; set; } //this class it is DERVED Class and the context class only include Base Classes as DbSet//this Class is the foreign key in the this class but we din't include it in the DbContext class but it will be there in the Database becuase it is a foreign in the Student class(Table) 
         public Nullable<int> StandardID { get; set; }//foreign key, here we must specify it as Nullable so that it can be null
         [ForeignKey("StandardID")]
         public virtual Standard standard { get; set; }
 
-        //this class it is DERVED Class and the context class only include Base Classes as DbSet
         public Nullable<int> TeacherID { get; set; }//foreign key
-        public virtual Teacher teacher { get; set; }//this Class is the foreign key in the this class but we din't include it in the DbContext class but it will be there in the Database becuase it is a foreign in the Student class(Table) 
+        public virtual Teacher teacher { get; set; }
 
         public virtual ICollection<Course> Courses { get; set; }
     }

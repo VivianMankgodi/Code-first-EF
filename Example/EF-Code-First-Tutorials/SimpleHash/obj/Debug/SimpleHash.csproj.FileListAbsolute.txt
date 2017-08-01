@@ -13,4 +13,3 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tuto
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\SimpleHash\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\SimpleHash\bin\Debug\EntityFramework.xml
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\SimpleHash\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\SimpleHash\obj\Debug\SimpleHash.csprojResolveAssemblyReference.cache

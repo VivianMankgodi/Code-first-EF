@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,13 +29,54 @@ namespace LINQSyntax
 
             //  lambda.DelegateLambada();
             //  lambda.MultipleParameters();
-            lambda.LambdaLocalVariable();
+            // lambda.LambdaLocalVariable();
             //-----------------------------------------------------------------------------------------
 
+            //-----------------------------------------------------------------------------------------
+            JoinOperators j = new JoinOperators();
+            //j.joinSameValues();
+            //-----------------------------------------------------------------------------------------
 
-            Data data = new Data();
-            
+            StandardOperators standard = new LINQSyntax.StandardOperators();
+            //standard.FilterWhere();
+            //standard.FilterOfType();
+            //standard.Sorting();
 
+            //-----------------------------------------------------------------------------------------
+            ProjectionOperators proj = new LINQSyntax.ProjectionOperators();
+            //  proj.SelectClause();
+            // proj.SelectAnonymoustype();
+            //proj.SelectMany();
+
+            //-----------------------------------------------------------------------------------------
+            QuantififeirOperator quanOp = new QuantififeirOperator();
+
+            /*quanOp.ALLOperator();
+            quanOp.AnyOperator();
+            quanOp.ContainOperator();
+            quanOp.StudentComparer();
+            */
+
+            //-----------------------------------------------------------------------------------------
+
+            ElementOperators element = new LINQSyntax.ElementOperators();
+
+            //element.ElementAtOperator();
+            //  element.ElementAtOrDefaultOperator();
+            // element.ElementFirstOperato();
+            //element.ElementFirstorDefaultOperato();
+            //element.ElementLastOperator();
+            //element.ElementSkip();
+
+            //-----------------------------------------------------------------------------------------
+            SetOperators setOp = new LINQSyntax.SetOperators();
+
+           // setOp.DistinctOperator();
+
+            //-----------------------------------------------------------------------------------------
+
+            Defered df = new LINQSyntax.Defered();
+            df.DeferedMethod();
             Console.ReadKey();
         }
     }

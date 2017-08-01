@@ -51,41 +51,38 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Course.cs" />
+    <Compile Include="EFInitializer.cs" />
     <Compile Include="Gender.cs" />
     <Compile Include="MethodsInsert.cs" />
     <Compile Include="Methods\Insert.cs" />
     <Compile Include="Methods\Select.cs" />
-    <Compile Include="Migrations\201707051200202_InitialCreate.cs" />
-    <Compile Include="Migrations\201707051200202_InitialCreate.Designer.cs">
-      <DependentUpon>201707051200202_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\201707120713461_initials.cs" />
+    <Compile Include="Migrations\201707120713461_initials.Designer.cs">
+      <DependentUpon>201707120713461_initials.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707051206590_createInitial.cs" />
-    <Compile Include="Migrations\201707051206590_createInitial.Designer.cs">
-      <DependentUpon>201707051206590_createInitial.cs</DependentUpon>
+    <Compile Include="Migrations\201707120716352_initials1.cs" />
+    <Compile Include="Migrations\201707120716352_initials1.Designer.cs">
+      <DependentUpon>201707120716352_initials1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707051308093_createInitial1.cs" />
-    <Compile Include="Migrations\201707051308093_createInitial1.Designer.cs">
-      <DependentUpon>201707051308093_createInitial1.cs</DependentUpon>
+    <Compile Include="Migrations\201707120717544_initials2.cs" />
+    <Compile Include="Migrations\201707120717544_initials2.Designer.cs">
+      <DependentUpon>201707120717544_initials2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707051309162_createInitial2.cs" />
-    <Compile Include="Migrations\201707051309162_createInitial2.Designer.cs">
-      <DependentUpon>201707051309162_createInitial2.cs</DependentUpon>
+    <Compile Include="Migrations\201707120719468_initials3.cs" />
+    <Compile Include="Migrations\201707120719468_initials3.Designer.cs">
+      <DependentUpon>201707120719468_initials3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707051322269_createInitial3.cs" />
-    <Compile Include="Migrations\201707051322269_createInitial3.Designer.cs">
-      <DependentUpon>201707051322269_createInitial3.cs</DependentUpon>
+    <Compile Include="Migrations\201707120722486_initials4.cs" />
+    <Compile Include="Migrations\201707120722486_initials4.Designer.cs">
+      <DependentUpon>201707120722486_initials4.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707060827530_initals1.cs" />
-    <Compile Include="Migrations\201707060827530_initals1.Designer.cs">
-      <DependentUpon>201707060827530_initals1.cs</DependentUpon>
+    <Compile Include="Migrations\201707120729513_initials5.cs" />
+    <Compile Include="Migrations\201707120729513_initials5.Designer.cs">
+      <DependentUpon>201707120729513_initials5.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707060937266_initals4.cs" />
-    <Compile Include="Migrations\201707060937266_initals4.Designer.cs">
-      <DependentUpon>201707060937266_initals4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201707061000590_initals5.cs" />
-    <Compile Include="Migrations\201707061000590_initals5.Designer.cs">
-      <DependentUpon>201707061000590_initals5.cs</DependentUpon>
+    <Compile Include="Migrations\201707120734549_initials56.cs" />
+    <Compile Include="Migrations\201707120734549_initials56.Designer.cs">
+      <DependentUpon>201707120734549_initials56.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -100,29 +97,26 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201707051200202_InitialCreate.resx">
-      <DependentUpon>201707051200202_InitialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120713461_initials.resx">
+      <DependentUpon>201707120713461_initials.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707051206590_createInitial.resx">
-      <DependentUpon>201707051206590_createInitial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120716352_initials1.resx">
+      <DependentUpon>201707120716352_initials1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707051308093_createInitial1.resx">
-      <DependentUpon>201707051308093_createInitial1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120717544_initials2.resx">
+      <DependentUpon>201707120717544_initials2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707051309162_createInitial2.resx">
-      <DependentUpon>201707051309162_createInitial2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120719468_initials3.resx">
+      <DependentUpon>201707120719468_initials3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707051322269_createInitial3.resx">
-      <DependentUpon>201707051322269_createInitial3.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120722486_initials4.resx">
+      <DependentUpon>201707120722486_initials4.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707060827530_initals1.resx">
-      <DependentUpon>201707060827530_initals1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120729513_initials5.resx">
+      <DependentUpon>201707120729513_initials5.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707060937266_initals4.resx">
-      <DependentUpon>201707060937266_initals4.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201707061000590_initals5.resx">
-      <DependentUpon>201707061000590_initals5.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707120734549_initials56.resx">
+      <DependentUpon>201707120734549_initials56.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

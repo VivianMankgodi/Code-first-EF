@@ -44,12 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data.cs" />
+    <Compile Include="ElementOperators.cs" />
+    <Compile Include="EnumerableExtensioonMethods.cs" />
+    <Compile Include="JoinOperators.cs" />
     <Compile Include="LINQLambdaDelegate.cs" />
     <Compile Include="LINQandLambda.cs" />
     <Compile Include="LinqQuery.cs" />
     <Compile Include="Notes.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProjectionOperators.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuantififeirOperator.cs" />
+    <Compile Include="SetOperators.cs" />
+    <Compile Include="StandardOperators.cs" />
     <Compile Include="Student.cs" />
   </ItemGroup>
   <ItemGroup>

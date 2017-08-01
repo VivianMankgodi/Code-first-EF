@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace DVT.SchoolLibrary.Models
 {
-    class City
+   public  class City
     {
         public int CityID { get; set; }
         public string CityName { get; set; }
+        public int ProvinceID { get; set; }
+        public virtual ICollection<Suburb>  Suburb { get; set; }
+        public virtual Province Province { get; set; }
     }
 }

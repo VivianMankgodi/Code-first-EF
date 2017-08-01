@@ -1,0 +1,12 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\DVT.SchoolLibrary.dll.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\DVT.SchoolLibrary.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\DVT.SchoolLibrary.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\obj\Debug\DVT.SchoolLibrary.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\obj\Debug\DVT.SchoolLibrary.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\obj\Debug\DVT.SchoolLibrary.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\obj\Debug\DVT.SchoolLibrary.Migrations.initial.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\DVTHigh\DVT.SchoolLibrary\obj\Debug\DVT.SchoolLibrary.csproj.GenerateResource.Cache

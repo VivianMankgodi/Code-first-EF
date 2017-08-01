@@ -12,20 +12,22 @@ namespace DLL.Methods.DataAccess
         public SchoolContext():base("SchoolDB")
         {
 
-            //Database.SetInitializer<SchoolContext>(new CreateDatabaseIfNotExists<SchoolContext >());
-            //    Database.SetInitializer<SchoolContext>(new DropCreateDatabaseAlways<SchoolContext>());
-            Database.SetInitializer(new SchoolInitializer());
+//Database.SetInitializer<SchoolContext>(new CreateDatabaseIfNotExists<SchoolContext >());
+  //   Database.SetInitializer<SchoolContext>(new DropCreateDatabaseAlways<SchoolContext>());
+          //  Database.SetInitializer<SchoolContext>(new DropCreateDatabaseIfModelChanges<SchoolContext>());
+            //Database.SetInitializer(new SchoolInitializer());
         }
 
-        public DbSet<Student> students { get; set; }
-        public DbSet<Standard> standards { get; set; }
-        public DbSet<Course> Courses { get; set; }
-
-       /* protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-            //i can use many to many relationship in here
-            modelBuilder.Entity<Student>().HasMany<Course>(s => s.Courses).WithMany(c => c.Students).Map(cs => { cs.MapLeftKey("StudentrefId"); cs.MapRightKey("CourseRedId"); cs.ToTable("StudentCourse"); });
-        }*/
+        public virtual DbSet<Student> students { get; set; }
+        public virtual DbSet<Standard> standards { get; set; }
+        public virtual  DbSet<Course> Courses { get; set; }
+        public virtual  DbSet<Teacher> Teachers { get; set; }
+        public virtual DbSet<Gender> genders { get; set; }
+                                           /* protected override void OnModelCreating(DbModelBuilder modelBuilder)
+                                            {
+                                                base.OnModelCreating(modelBuilder);
+                                                //i can use many to many relationship in here
+                                                modelBuilder.Entity<Student>().HasMany<Course>(s => s.Courses).WithMany(c => c.Students).Map(cs => { cs.MapLeftKey("StudentrefId"); cs.MapRightKey("CourseRedId"); cs.ToTable("StudentCourse"); });
+                                            }*/
     }
 }

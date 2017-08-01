@@ -16,6 +16,7 @@ namespace DLL.Methods.DataAccess
         /* decaring Scalar properties*/
         public int StandardID { get; set; }
         public string Standardname { get; set; }
+        //public int Standardcode { get; set; }
 
         /* decaring Colection Navigation properties*/
 
@@ -23,5 +24,10 @@ namespace DLL.Methods.DataAccess
         //public ICollection<Student> Students { get; set; }
         //i can even use it like this
         public IList<Student> Students { get; set; }
+
+        public static implicit operator Standard(List<Student> v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

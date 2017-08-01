@@ -10,7 +10,6 @@ namespace DLL.Methods.DataAccess.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "DLL.Methods.DataAccess.SchoolContext";
         }
 
         protected override void Seed(DLL.Methods.DataAccess.SchoolContext context)
@@ -27,6 +26,30 @@ namespace DLL.Methods.DataAccess.Migrations
             //      new Person { FullName = "Rowan Miller" }
             //    );
             //
+
+           // context.Database.Delete();
+           // context.Database.Create();
+            context.standards.AddOrUpdate(
+            b => b.Standardname,
+           
+                new DataAccess.Standard { Standardname = "grade 9" },
+               new DataAccess.Standard { Standardname = "grade 10" },
+               new Standard { Standardname = "Grade 11" },
+               new Standard { Standardname = "grade 12" },
+               new Standard { Standardname = "grade 8"}
+               );
+
+            context.genders.AddOrUpdate(
+                new DataAccess.Gender { GenderType = "Female"},
+                new DataAccess.Gender { GenderType = "Male"}
+                );
+
+            context.Teachers.AddOrUpdate(
+                new DataAccess.Teacher { TeacherName = "Vivian", Surname ="Tebeila"}
+                
+                );
+
+          //  context.SaveChanges();
         }
     }
 }

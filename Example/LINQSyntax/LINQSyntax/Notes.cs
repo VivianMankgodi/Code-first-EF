@@ -11,7 +11,7 @@ namespace LINQSyntax
         /*
         Using LINQ Query Syntax
         @ LINQ Query Syntax start with FROM keyword
-        @ It ends with SELECT keyword or GROUP Clauese.
+        @ It ends with SELECT keyword or GROUPBY Clauese.
 
         Syntax of LINQ 
         var VariableName = FROM rangeVariable IN  Sequence(IEnumerable or IQueryable Collection) WHERE rangeVariable.ConditionExpresion() SELECT rangeVariable;

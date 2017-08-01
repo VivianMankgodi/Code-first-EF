@@ -16,17 +16,17 @@ namespace DLL.Methods.DataAccess
             {
                 //here we add information from a Class(table) that we want 
 
-                /*      var stud = new Student
+                      var stud = new Student
                       {
                           StudentName = "Thabo",
                           DateOfBirth = DateTime.Parse("1991-04-12")
 
 
-                      };*/
+                      };
 
-                //context.students.Add(stud);
-                //  context.SaveChanges();
-                //    Console.WriteLine("Student Saved");
+                context.students.Add(stud);
+                  context.SaveChanges();
+                   Console.WriteLine("Student Saved");
 
 
               /*  string Name;

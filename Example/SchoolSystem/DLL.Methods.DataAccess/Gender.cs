@@ -13,5 +13,6 @@ namespace DLL.Methods.DataAccess
         [Required]
         [StringLength(20)]
         public string GenderType { get; set; }
+       
     }
 }

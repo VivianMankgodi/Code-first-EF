@@ -18,7 +18,6 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tuto
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.xml
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.InitialCreate.resources
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.initialCreate_2.resources
 C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache

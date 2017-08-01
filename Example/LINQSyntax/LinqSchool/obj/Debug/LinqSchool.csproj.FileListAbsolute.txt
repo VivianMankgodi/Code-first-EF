@@ -1,0 +1,6 @@
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\LINQSyntax\LinqSchool\bin\Debug\LinqSchool.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\LINQSyntax\LinqSchool\bin\Debug\LinqSchool.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\LINQSyntax\LinqSchool\bin\Debug\LinqSchool.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\LINQSyntax\LinqSchool\obj\Debug\LinqSchool.csprojResolveAssemblyReference.cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\LINQSyntax\LinqSchool\obj\Debug\LinqSchool.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\LINQSyntax\LinqSchool\obj\Debug\LinqSchool.pdb

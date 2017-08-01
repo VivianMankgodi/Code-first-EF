@@ -34,9 +34,9 @@ namespace ArtistConsloeApp
             //    Console.WriteLine(item.Name );
             //}
 
-            //repository.Listing();
-            //repository.GetAllNames();
-            List();
+           // repository.Listing();
+            repository.GetAllNames();
+         //   List();
 
         // repository.Listing();//  repository.GetsAll());
 

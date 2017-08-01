@@ -8,3 +8,18 @@ C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\HashingPasword\obj\Debug\HashingPasword.csprojResolveAssemblyReference.cache
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\HashingPasword\obj\Debug\HashingPasword.exe
 C:\Users\VTebeila\Desktop\DVT\My Practice\EF Tutorials\CodeFirstApplications\EF-Code-First-Tutorials\HashingPasword\obj\Debug\HashingPasword.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\DVT.SchoolLibrary.Migrations.intilas.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\DVT.SchoolLibrary.Migrations.intilas1.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\DVT.SchoolLibrary.Migrations.intilas2.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\DVT.SchoolLibrary.Migrations.dataannottion.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\DVT.SchoolLibrary.Migrations.seeding.resources
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\HashingPasword.csproj.GenerateResource.Cache
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\HashingPasword.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\obj\Debug\HashingPasword.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\HashingPasword.exe.config
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\HashingPasword.exe
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\HashingPasword.pdb
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\EntityFramework.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\EntityFramework.xml
+C:\Users\VTebeila\Desktop\DVT\My Practice\GitProjects\Example\EF-Code-First-Tutorials\HashingPasword\bin\Debug\EntityFramework.SqlServer.xml
